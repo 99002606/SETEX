@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600608948 source:c:\genesisset1\account\account.cc
+	<iostream>
+	"account.h"
+
+1600608888 c:\genesisset1\account\account.h
+	<string>
+
